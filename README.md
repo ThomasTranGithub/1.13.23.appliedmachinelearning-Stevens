@@ -1,2 +1,3 @@
-# AppliedMachineLearning-Stevens
-Applied Machine Learning - Stevens Institute of Technology 
+
+**Applied Machine Learning - Stevens Institute of Technology**
+#**Recommender System Using Matrix Factorization**
